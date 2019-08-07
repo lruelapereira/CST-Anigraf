@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Welcome to the CST Toolkit pages.
 The [CST Toolkit](http://cst.fee.unicamp.br) is a Java-based toolkit to allow the construction of Cognitive Architectures. It is being developed at the [University of Campinas](http://www.dca.fee.unicamp.br) by a group of researchers in the field of Cognitive Architectures leaded by Prof. [Ricardo Gudwin](http://faculty.dca.fee.unicamp.br/gudwin). 
 
@@ -57,6 +58,9 @@ License
     limitations under the License.
     
     
+=======
+# CST-Anigrafs
+>>>>>>> origin/master
 =======
 # CST-Anigrafs
 >>>>>>> origin/master
